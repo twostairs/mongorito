@@ -10,7 +10,7 @@ Uses official [mongodb](https://www.npmjs.com/package/mongodb) driver under the 
 
 <h1 align="center">
   <br>
-  <img width="200" src="media/logo.png">
+  <img width="200" src="media/m2logo.jpg">
   <br>
   <br>
 </h1>
