@@ -1,6 +1,6 @@
 {
   "name": "mongoritwo",
-  "version": "2.2.3",
+  "version": "2.2.4",
   "description": "ES6 generator-based MongoDB ODM. Fork of vdemedes/mongorito with power-users/business-users in mind.",
   "contributors": [
     {
